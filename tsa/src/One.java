@@ -9,6 +9,8 @@ public class One {
 		
 		System.out.println("selenium");
 		System.out.println("jmeter");
+		System.out.println("appium");
+		
 
 	}
 
