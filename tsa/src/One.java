@@ -8,6 +8,7 @@ public class One {
 		// TODO Auto-generated method stub
 		
 		System.out.println("selenium");
+		System.out.println("jmeter");
 
 	}
 
